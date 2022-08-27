@@ -5,7 +5,6 @@ Dominic
 Dominion
 Kenny
 Landmark
-Olu
 Baasit
 Kafilat
 Ayo
